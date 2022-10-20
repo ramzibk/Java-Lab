@@ -2,12 +2,15 @@ package com.rbk.javalabs._instanceof;
 
 public class TypeMatcher {
 
+    /*
+    * Pattern matching involves testing whether an object has a particular structure, then extracting data from that object if there's a match.
+    * */
     public static void main(String[] args) {
 
         Number num = 10;
         if ( num instanceof Integer) {
             Integer value = (Integer) num;
-            System.out.println("object is an Integer with value " + value);
+            System.out.println("num is an Integer with value " + value);
         }
 
         // using pattern matching
