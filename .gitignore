@@ -1,9 +1,3 @@
-/java-core/target/classes/com/rbk/javalabs/_instanceof/Circle.class
-/java-core/target/classes/com/rbk/javalabs/_instanceof/Rectangle.class
-/java-core/target/classes/com/rbk/javalabs/_instanceof/Shape.class
-/java-core/target/classes/com/rbk/javalabs/_instanceof/TypeMatcher.class
-/java-modules/.idea/.gitignore
-/java-modules/.idea/misc.xml
-/java-modules/.idea/modules.xml
-/java-modules/.idea/vcs.xml
-/java-modules/.idea/workspace.xml
+/java-core/target/
+/java-core/target/
+/java-modules/.idea/
